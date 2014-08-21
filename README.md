@@ -6,21 +6,21 @@ write-your-name
 
 ## Checkpoint 1
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 ## Checkpoint 2
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 # D3
 
 ## Checkpoint 1
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 ## Checkpoint 2
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 ## Study Questions
 
@@ -39,7 +39,7 @@ fill-in-your-answer
 
 ## Challenge 1
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
@@ -47,43 +47,43 @@ fill-in-your-answer
 
 a.
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 b.
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 c.
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 d.
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 e.
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 f.
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 
 g.
 
-![screenshot](screenshot.png?raw=true)
+![image](image.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
