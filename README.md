@@ -2,23 +2,27 @@
 
 write-your-name
 
-# Checkpoint 1
+# Splunk
+
+## Checkpoint 1
 
 ![checkpoint1](checkpoint1.png?raw=true)
 
-# Checkpoint 2
+## Checkpoint 2
 
 ![checkpoint2](checkpoint2.png?raw=true)
 
-# Checkpoint 3
+# D3
+
+## Checkpoint 1
 
 ![checkpoint3](checkpoint3.png?raw=true)
 
-# Checkpoint 4
+## Checkpoint 2
 
 ![checkpoint4](checkpoint4.png?raw=true)
 
-# Study Questions
+## Study Questions
 
 Q1. What would happen if the data's heading reads differently, like below? Where in the code do you need to modify to get it to work again?
 
@@ -47,15 +51,15 @@ Q3. In the code below, what is the purpose of the second argument __type__?
 A3: fill-in-your-answer
 
 
+# D3
 
-
-# Challenge 1
+## Challenge 1
 
 ![challenge1](challenge1.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
-# Challenge 2
+## Challenge 2
 
 a.
 
