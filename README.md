@@ -24,7 +24,7 @@ write-your-name
 
 ## Study Questions
 
-Q1. What would happen if the data's heading reads differently, like below? Where in the code do you need to modify to get it to work again?
+### Q1. What would happen if the data's heading reads differently, like below? Where in the code do you need to modify to get it to work again?
 
 <pre>
 firstname	count
@@ -35,23 +35,20 @@ Jarrah	16
 Shephard	23
 Kwon	42</pre>
 
-A1: fill-in-your-answer
+fill-in-your-answer
 
-Q2. What is the point of going through so much trouble to use D3 to make a barchart?  Why don't we just use Excel? What are the benefits of using D3?
+### Q2. What is the point of going through so much trouble to use D3 to make a barchart?  Why don't we just use Excel? What are the benefits of using D3?
 
-A2: fill-in-your-answer
+fill-in-your-answer
 
-
-Q3. In the code below, what is the purpose of the second argument __type__?
+### Q3. In the code below, what is the purpose of the second argument __type__?
 
  {% highlight javascript %}
  d3.tsv("data.tsv", type, function (error, data) ...
  {% endhighlight %}
 
-A3: fill-in-your-answer
+fill-in-your-answer
 
-
-# D3
 
 ## Challenge 1
 
