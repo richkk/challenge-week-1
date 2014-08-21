@@ -24,28 +24,15 @@ write-your-name
 
 ## Study Questions
 
-### Q1. What would happen if the data's heading reads differently, like below? Where in the code do you need to modify to get it to work again?
-
-<pre>
-firstname	count
-Locke	4
-Reyes	8
-Ford	15
-Jarrah	16
-Shephard	23
-Kwon	42</pre>
+### Q1.
 
 fill-in-your-answer
 
-### Q2. What is the point of going through so much trouble to use D3 to make a barchart?  Why don't we just use Excel? What are the benefits of using D3?
+### Q2.
 
 fill-in-your-answer
 
-### Q3. In the code below, what is the purpose of the second argument __type__?
-
- {% highlight javascript %}
- d3.tsv("data.tsv", type, function (error, data) ...
- {% endhighlight %}
+### Q3.
 
 fill-in-your-answer
 
