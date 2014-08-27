@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Rich Kelly
 
 # How many points have you earned?
 
